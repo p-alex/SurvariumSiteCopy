@@ -1,0 +1,389 @@
+body{
+    margin:0;
+    padding:0;
+    position:relative;
+    background-image: url(Images/22008136_491588681201650_1975677809502735580_n.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: tahoma;
+}
+
+.first_container{
+    border:thin;
+    margin:0 auto;
+    position: relative;
+    width:980px;
+    height:150px;
+}
+
+.Dropdown-language img{
+    position: relative;
+    width:20px;
+    height:15px;
+    cursor: pointer;
+}
+
+.vtop_login{
+    position: relative;
+    background: rgba(0,0,0,0.6);
+    width: 440px;
+    height:35px;
+    float: right;
+    color:white;
+    
+}
+
+.vtop_login_links img{
+    position: relative;
+    width:20px;
+    height:15px;
+    top:3.8px;
+    
+}
+
+.vtop_login_links a{
+    color:yellow;
+    position: relative;
+    line-height: 35px;
+    margin-left: 6px;
+    color:#d0a320;
+    text-decoration: underline;
+}
+
+.vtop_login_links a:hover{
+    text-decoration: none;
+}
+
+.site_logo img{
+    position: relative;
+    margin-top: 20px;
+    width: 510px;
+    height: 120px;
+}
+
+.nav-container{
+    position: relative;
+    width:980px;
+    height:60px;
+    border: thin;
+    margin:0 auto;
+    background-color: #111;
+}
+
+.nav-links a{
+    position: relative;
+    line-height: 60px;
+    font-size: 19px;
+    text-decoration: none;
+    color:grey;
+    font-weight: bold;
+    border: thin;
+    padding: 18px 33px;
+}
+
+.nav-links a:hover{
+    
+    background-color: #333;
+}
+
+.content_container{
+    position: relative;
+    border:thin;
+    margin: 0 auto;
+    width:980px;
+    height:1930px;
+    background:rgba(0,0,0,0.97);
+}
+
+.Patch-release-holder{
+    position:relative;
+    border:thin;
+}
+
+.Patch-info{
+    padding: 8px;
+    position: absolute;
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    bottom:2px;
+    color:white;
+}
+
+.download_button a{
+    position: relative;
+    color:white;
+    border:thin;
+    padding:15px 9.7px;
+    font-size:36px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color:#B81717;
+    top: 15px;
+    text-decoration: none;
+}
+
+.download_button a:hover{
+    background-color: #C51919;
+}
+
+.content_container-leftrow{
+    position: relative;
+    border: solid silver 0px;
+    width:66.6%;
+    height:600px;
+    float: left;
+    margin:8px 8px;
+}
+
+.content_container-rightrow{
+    position: relative;
+    border: solid grey 0px;
+    width:30.9%;
+    height:600px;
+    float: right;
+    margin-right:8px;
+    margin-top:8px;
+}
+
+.about-game{
+    position: relative;
+    font-size:13px;
+    color:white;
+    background-color:#4E1111;
+    padding:10px;
+    text-align: center;
+    top: 40px;
+}
+
+.about-survarium-image img{
+    width:100%;
+    position: relative;
+    top: 50px;
+    cursor: pointer;
+}
+
+.about-survarium-image-info{
+    color:white;
+    position: relative;
+   background:rgba(0,0,0,0.7);
+    padding: 5px;
+    top: 10px;
+    font-weight: bold;
+}
+
+.NEWS{
+    position: relative;
+    top: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px;
+    background: linear-gradient(to right, rgba(80, 80, 80, 1), rgba(11, 12, 12, 0));
+}
+
+.NEWS_BOX{
+    position: relative;
+    top: 15px;
+    padding: 5px;
+    border: solid red 0px;
+    color: white;
+    background: linear-gradient(to left, rgba(111,111,111,0.4),rgba(11,11,11,.4));
+}
+
+.first_NEWS img{
+    position: relative;
+    float: left;
+    width: 180px;
+    top: 5px;
+}
+
+.first_NEWS{
+    width: 100%;
+    height:110px;
+    position: relative;
+    border-bottom: solid .1px #333;
+}
+
+.news-info{
+   padding: 5px;
+   
+}
+
+.news-box-info{
+    border: solid red 0px;
+    position: relative;
+    float: right;
+    width: 450px;
+    bottom: 10px;
+    font-size: 14px;
+}
+
+.news-date{
+    position: relative;
+    float: right;
+    font-size: 10px;
+    color:#666;
+}
+
+.news-title{
+    color:#DCAE3A;
+    position: relative;
+    left: 15px;
+}
+
+.no-border{
+    border:thin;
+}
+
+.Mediaa
+{
+    position: relative;
+    top:25px;
+}
+
+.media_holder{
+    position: relative;
+    width: 100%;
+    height:450px;
+    border: solid red 0px;
+    top: 36px;
+}
+
+.media_holder img{
+    position: relative;
+    width:212px;
+    height: 124px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.media_holder img:hover{
+    opacity: 0.8;
+}
+
+.media-onimage-text1{
+    position: absolute;
+    color: white;
+    top: 220px;
+    left: -0px;
+    float: left;
+    width: 425px;
+    padding:5px 5px;
+    background: rgba(0,0,0,.7);
+    cursor: pointer;
+}
+
+.media-onimage-text2{
+    position: absolute;
+    color: white;
+    top: 90px;
+    left: 440px;
+    float: left;
+    width: 202px;
+    padding:5px 5px;
+    background: rgba(0,0,0,.7);
+    cursor: pointer;
+}
+
+.media-onimage-text3{
+    position: absolute;
+    color: white;
+    top: 220px;
+    left: 440px;
+    float: left;
+    width: 202px;
+    padding:5px 5px;
+    background: rgba(0,0,0,.7);
+    cursor: pointer;
+}
+
+.media-onimage-text4{
+    position: absolute;
+    color: white;
+    top: 350px;
+    left: 0px;
+    float: left;
+    width: 207px;
+    padding:5px 5px;
+    background: rgba(0,0,0,.7);
+    cursor: pointer;
+}
+
+.media-onimage-text5{
+    position: absolute;
+    color: white;
+    top: 350px;
+    left: 221px;
+    float: left;
+    width: 203px;
+    padding:5px 5px;
+    background: rgba(0,0,0,.7);
+    cursor: pointer;
+}
+
+.media-onimage-text6{
+    position: absolute;
+    color: white;
+    top: 350px;
+    left: 440px;
+    float: left;
+    width: 202px;
+    padding:5px 5px;
+    background: rgba(0,0,0,.7);
+    cursor: pointer;
+}
+
+.OFFSET_RIGHTROW_IMAGE1{
+    top: -20px;
+    position: relative;
+}
+
+.OFFSET_RIGHTROW_IMAGE2{
+    top: -42px;
+    position: relative;
+}
+
+.OFFSET_RIGHTROW_IMAGE3{
+    top: -64px;
+    position: relative;
+}
+
+.footer{
+    border-top:solid #333 .1px;
+    position: relative;
+    clear: both;
+    width: 149%;
+    padding: 10px 0px;
+    top: 90px;
+}
+
+.footer-links a{
+    color: #d0a320;
+    margin-left: 40px;
+    font-size: 14px;
+}
+.tweets{
+    top: -35px;
+    border:solid red 0px;
+    position: relative;
+    height: 310px;
+}
+
+.copyright{
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    color: #333;
+    top:65px;
+}
+
+.footer-images{
+    position: relative;
+    margin: 0 auto;
+    top: 20px;
+}
+
+.video_holder{
+    z-index: 99px;
+}
